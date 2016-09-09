@@ -1,0 +1,35 @@
+body {
+ background-image: url("https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/14067582_10154158435515141_1873127694233727747_n.jpg?oh=c010ac072a256ece64f616b39dc40903&oe=584AC3F5");
+ background-repeat: no-repeat;
+ background-size: 100% 52%;
+ background-color: #85E4EF;
+	
+	}
+h1 {
+font-size: 180px;
+font-family: Vivaldi, Verdana, Times Roman;
+color: white;
+text-align: left;
+    margin: auto;
+}
+
+p {
+	font-size: 90px;
+	font-family: Verdana;
+	color: pink;
+	margin-left: 80px;
+}
+ #nice {
+	font-size: 100px;
+	font-family: Verdana;
+	color: pink;
+	text-align: center;
+}
+a:link, a:visited {
+	color: gold;
+	text-decoration: none;
+    display: inline-block;
+}
+a:hover {
+	color: hotpink;
+}
